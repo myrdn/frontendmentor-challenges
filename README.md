@@ -15,5 +15,5 @@ You can find links to the live versions of my solutions in the READMEs of each s
 - [Profile card component](https://github.com/myrdn/profile-card-component)
 - [FAQ accordion card](https://github.com/myrdn/faq-accordion-card)
 
-And here you can find [my Frontend Mentor profile](https://www.frontendmentor.io/profile/myrdn)
+And here you can find [my Frontend Mentor profile](https://www.frontendmentor.io/profile/myrdn) feel free to follow and/or comment my solutions.
 
